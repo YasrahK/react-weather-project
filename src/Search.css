@@ -1,0 +1,12 @@
+.search {
+    padding: 10px;
+    text-align: center;
+  }
+  div.col-3.search-button {
+    padding-right: 0px;
+    padding-left: 2px;
+  }
+  div.col-3.current-button {
+    padding-left: 0px;
+  }
+  

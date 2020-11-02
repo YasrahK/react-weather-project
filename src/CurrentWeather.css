@@ -1,0 +1,22 @@
+.fa-sun {
+    color: rgb(255, 229, 0);
+    font-size: 80px;
+    padding-top: 10px;
+  }
+  
+  .TempToday {
+    font-size: 60px;
+  }
+  
+  span.cel-fahren {
+    font-family: "Montserrat", sans-serif;
+    font-size: 10px;
+    padding-bottom: 20px;
+    position: relative;
+    top: -50px;
+  }
+  
+  .description {
+    font-family: "Shadows Into Light Two", cursive;
+  }
+  
